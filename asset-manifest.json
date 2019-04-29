@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.583d9439.chunk.css",
-    "main.js": "/static/js/main.5fa16abd.chunk.js",
-    "main.js.map": "/static/js/main.5fa16abd.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.ca038051.chunk.js": "/static/js/2.ca038051.chunk.js",
-    "static/js/2.ca038051.chunk.js.map": "/static/js/2.ca038051.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.d407406e4a8cefc74abb2116ec18f5ea.js": "/precache-manifest.d407406e4a8cefc74abb2116ec18f5ea.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.583d9439.chunk.css.map": "/static/css/main.583d9439.chunk.css.map"
+    "main.css": "/strike-and-ball/static/css/main.583d9439.chunk.css",
+    "main.js": "/strike-and-ball/static/js/main.4b226b5a.chunk.js",
+    "main.js.map": "/strike-and-ball/static/js/main.4b226b5a.chunk.js.map",
+    "runtime~main.js": "/strike-and-ball/static/js/runtime~main.7ebbd3df.js",
+    "runtime~main.js.map": "/strike-and-ball/static/js/runtime~main.7ebbd3df.js.map",
+    "static/js/2.ca038051.chunk.js": "/strike-and-ball/static/js/2.ca038051.chunk.js",
+    "static/js/2.ca038051.chunk.js.map": "/strike-and-ball/static/js/2.ca038051.chunk.js.map",
+    "index.html": "/strike-and-ball/index.html",
+    "precache-manifest.3f8b633f233f40050febe2492ecb8c71.js": "/strike-and-ball/precache-manifest.3f8b633f233f40050febe2492ecb8c71.js",
+    "service-worker.js": "/strike-and-ball/service-worker.js",
+    "static/css/main.583d9439.chunk.css.map": "/strike-and-ball/static/css/main.583d9439.chunk.css.map"
   }
 }
